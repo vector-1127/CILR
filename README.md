@@ -7,11 +7,18 @@ Jianlong Chang (jianlong.chang@nlpr.ia.ac.cn)
 
 # Bibtex
 
-@article{article,\\
+@article{article,
+
 author = {Chang, Jianlong and Wang, Lingfeng and Meng, Gaofeng and Xiang, Shiming and Pan, Chunhong},
+
 year = {2017},
+
 month = {10},
+
 pages = {},
+
 title = {Deep Unsupervised Learning with Consistent Inference of Latent Representations},
+
 booktitle = {Pattern Recognition}
+
 }
